@@ -1,0 +1,19 @@
+clone netflix
+
+
+no css posso declarar variáveis da seguinte forma:
+ex.: 
+--preta: #141414
+
+pronto, posso citar novamente no cod por ex.:
+color: var(--vermelho)
+
+;
+
+É possível mudar a cor da da navegação ao passar o mouse em cima. utilizando no css o seguinte cod:
+
+."classeEscolhida" a:hover{
+color: euheuheuehe
+}
+
+asdasda
